@@ -1,5 +1,6 @@
 codecov:
   require_ci_to_pass: yes
+  max_report_age: off
 
 coverage:
   precision: 2
@@ -20,5 +21,3 @@ comment:
   require_changes: no
 fixes:
   - "io/github/config4k::src/main/io.github.config4k"
-codecov:
-  max_report_age: off
