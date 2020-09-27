@@ -1,9 +1,10 @@
-language: c
-sudo: false # only for faster builds
-script:
-  - clang -coverage -O0 coverage.xml -o hello
-  - ./
-  - gcov coverage.xml
+language: csharp
 
-after_success:
-  - bash <(curl -s https://codecov.io/bash)language: c#
+dotnet: 3.1
+
+script:
+  - dotnet build HW1.sln -c Release
+  - dotnet test -c Release --no-build Calc_Tests/Calc_Tests.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+
+after_script:
+  - bash <(curl -s https://codecov.io/bash)
