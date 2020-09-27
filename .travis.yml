@@ -7,4 +7,4 @@ script:
   - dotnet test -c Release --no-build Calc_Tests/Calc_Tests.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
 
 after_script:
-  - bash <(curl -s https://codecov.io/bash)
+  - bash <(curl -s https://codecov.io/bash) -t 2f02f7a6-d48c-479b-8091-9410c28055b3
