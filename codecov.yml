@@ -3,3 +3,5 @@ coverage:
   range: 0..10
 fixes:
   - "io/github/config4k::src/main/io.github.config4k"
+codecov:
+  max_report_age: off
