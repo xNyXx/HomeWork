@@ -1,0 +1,13 @@
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Ildar\RiderProjects\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Ildar\RiderProjects\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
