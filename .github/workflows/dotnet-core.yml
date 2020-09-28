@@ -28,12 +28,12 @@ jobs:
     - name: Test
       run: dotnet test --no-restore --verbosity normal
     - name: Test
-      run: dotnet test -c Release --no-build  UnitTestProject1/CalcTest.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+      run: dotnet test -c Release --no-build  Calc_Test/Calc_Test.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
-        file: ./UnitTestProject1/coverage.opencover.xml
+        file: ./coverage.xml
         flags: tests
         name: codecov-umbrella
         yml: ./codecov.yml
