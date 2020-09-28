@@ -24,7 +24,7 @@ jobs:
     - name: Codecov
       uses: codecov/codecov-action@v1.0.13
       with:
-        file: ./coverage.xml  
+        file: ./coverage.json  
     - name: Install dependencies
       run: dotnet restore
     - name: Build
