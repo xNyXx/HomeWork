@@ -21,6 +21,10 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 3.1.301
+    - name: Codecov
+      uses: codecov/codecov-action@v1.0.13
+      with:
+        file: ./coverage.xml  
     - name: Install dependencies
       run: dotnet restore
     - name: Build
@@ -29,13 +33,4 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
     - name: Test
       run: dotnet test -c Release --no-build  Calc_Test/Calc_Test.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
-    - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v1
-      with:
-        token: ${{ secrets.CODECOV_TOKEN }}
-        file: ./UnitTestProject1/coverage.opencover.xml
-        flags: tests
-        name: codecov-umbrella
-        yml: ./codecov.yml
-        fail_ci_if_error: true
 
