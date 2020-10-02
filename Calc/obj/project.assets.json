@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc\\Calc.csproj",
+      "projectUniqueName": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc\\Calc.csproj",
       "projectName": "Calc",
-      "projectPath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc\\Calc.csproj",
+      "projectPath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc\\Calc.csproj",
       "packagesPath": "C:\\Users\\Ildar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc\\obj\\",
+      "outputPath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

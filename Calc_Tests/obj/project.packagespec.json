@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc_Tests\\Calc_Tests.csproj",
+    "projectUniqueName": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc_Tests\\Calc_Tests.csproj",
     "projectName": "Calc_Tests",
-    "projectPath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc_Tests\\Calc_Tests.csproj",
-    "outputPath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc_Tests\\obj\\",
+    "projectPath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc_Tests\\Calc_Tests.csproj",
+    "outputPath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc_Tests\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -18,8 +18,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc\\Calc.csproj": {
-            "projectPath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc\\Calc.csproj"
+          "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc\\Calc.csproj": {
+            "projectPath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc\\Calc.csproj"
           }
         }
       }
