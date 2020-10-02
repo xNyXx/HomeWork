@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oAnbHsQUf/F6auhPwLzpG/sz1V6TJVJoeo5qAmfz6gA5/EzAPqtff4oX1EXo2ybGFTck0LP+QmOp3Or20SQ94g==",
+  "dgSpecHash": "qSpoxYnJvQU34kK+6GWFHa74XMCafixG1c63KT9Tu+fpNu3Xb7u03JvdHQx41uxD3VtjA8kYVCmfcM1cV+0h0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ildar\\Desktop\\rep\\HomeWork\\Calc_Tests\\Calc_Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ildar\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\Ildar\\.nuget\\packages\\coverlet.msbuild\\2.9.0\\coverlet.msbuild.2.9.0.nupkg.sha512",
     "C:\\Users\\Ildar\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Ildar\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
