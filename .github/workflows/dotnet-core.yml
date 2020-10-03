@@ -6,11 +6,7 @@ on:
   pull_request:
     branches: '**'
 
-defaults:
-  run:
-    working-directory: ./
-
-jobs:
+jobs:  
   build:
 
     runs-on: ubuntu-latest
@@ -21,14 +17,18 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 3.1.301
-    - name: Codecov
-      uses: codecov/codecov-action@v1.0.13
-      with:
-        file: ./coverage.json  
     - name: Install dependencies
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test
-      run: dotnet test --no-restore --verbosity normal
-
+      run: dotnet test -c Release --no-build  Calculator_Tests/Calculator_Tests.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v1
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
+        file: ./Calculator_Tests/coverage.opencover.xml
+        flags: tests
+        name: codecov-umbrella
+        yml: ./codecov.yml
+        fail_ci_if_error: true
