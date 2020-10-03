@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8307a6-41aa-48f5-aa09-9ee6812eae1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/dotnet-core.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dotnet-core.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calc/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calc/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/Calc_Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/Calc_Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +21,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Calc_Tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/Calc/Calculator.cs" />
         <option value="$PROJECT_DIR$/Calc/Program.cs" />
-        <option value="$PROJECT_DIR$/Calc_Tests/UnitTest1.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +72,7 @@
       <workItem from="1601202413172" duration="68000" />
       <workItem from="1601465563066" duration="48000" />
       <workItem from="1601637287587" duration="43000" />
+      <workItem from="1601738506924" duration="31000" />
     </task>
     <servers />
   </component>

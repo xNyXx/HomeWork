@@ -3,6 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace Calc
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         static void Main(string[] args)
