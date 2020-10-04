@@ -4,12 +4,7 @@
     <projectFile>Calc/Calc.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a8307a6-41aa-48f5-aa09-9ee6812eae1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Calc/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="9a8307a6-41aa-48f5-aa09-9ee6812eae1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +68,7 @@
       <workItem from="1601465563066" duration="48000" />
       <workItem from="1601637287587" duration="43000" />
       <workItem from="1601738506924" duration="31000" />
+      <workItem from="1601756903748" duration="601000" />
     </task>
     <servers />
   </component>
