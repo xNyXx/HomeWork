@@ -39,5 +39,5 @@ let createImage (s, mx, my, iter) =
     let temp = new Form() in
     temp.Paint.Add(fun e -> e.Graphics.DrawImage(image, 0, 0))
     temp
-
+[<EntryPointAttribute>]
 do Application.Run(createImage (1.5, -1.5, -1.5, 20))
