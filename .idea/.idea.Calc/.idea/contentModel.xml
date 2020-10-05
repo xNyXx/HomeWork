@@ -46,6 +46,14 @@
         <e p="packages.config" t="Include" />
         <e p="Program.fs" t="Include" />
       </e>
+      <e p="Man_Br" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Man_Br.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
