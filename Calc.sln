@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Tests", "Calc_Tests\Calc_Tests.csproj", "{522C13B1-BAF1-40AA-AA2F-53798A72A6F5}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp_calc", "fsharp_calc\fsharp_calc.fsproj", "{386E02D6-200B-49CD-A5F3-3329253EDC78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{522C13B1-BAF1-40AA-AA2F-53798A72A6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522C13B1-BAF1-40AA-AA2F-53798A72A6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522C13B1-BAF1-40AA-AA2F-53798A72A6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386E02D6-200B-49CD-A5F3-3329253EDC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386E02D6-200B-49CD-A5F3-3329253EDC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386E02D6-200B-49CD-A5F3-3329253EDC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386E02D6-200B-49CD-A5F3-3329253EDC78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
