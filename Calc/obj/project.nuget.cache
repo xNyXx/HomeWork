@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+seZJnFWl/6O3R+wp8eBW4rexGBpCEr7m5nt1JpnJvEGL9QfvjT+C888f24jpyuf+2t+lTplXu5OFVwiCOPLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ildar\\Desktop\\HomeWork_dNET_Repo\\HomeWork\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ildar\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

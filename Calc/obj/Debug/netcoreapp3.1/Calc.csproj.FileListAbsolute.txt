@@ -1,0 +1,13 @@
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Ildar\Desktop\HomeWork_dNET_Repo\HomeWork\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
