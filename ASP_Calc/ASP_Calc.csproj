@@ -6,7 +6,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Calc\Calc.csproj" />
-      <ProjectReference Include="..\fsharp_calc\fsharp_calc.fsproj" />
     </ItemGroup>
 
 </Project>

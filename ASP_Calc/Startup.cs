@@ -26,8 +26,9 @@ namespace ASP_Calc
                 app.UseDeveloperExceptionPage();
             }
 
+            /*app.UseCors(builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());*/
             app.UseRouting();
-            app.UseMiddleware_CSharpCalc();
+            app.UseCalc_MiddleWare();
 
             app.UseEndpoints(endpoints =>
             {
