@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
+using System.Text;
 
 namespace Calc
 {
@@ -12,5 +13,4 @@ namespace Calc
             Console.WriteLine(Calculator.Calculate(a, "+", b));
         }
     }
-    
 }

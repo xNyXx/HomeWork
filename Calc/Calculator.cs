@@ -28,5 +28,27 @@ namespace Calc
                 default: throw new ArgumentException("Invalid operation");
             }
         }
+
+        public static int Calculate(string issue)
+        {
+            var variables = Text_Parser.Parse(issue);
+            var num1 = int.Parse(variables[0]);
+            var operation = variables[1];
+            var num2 = int.Parse(variables[2]);
+            switch (operation)
+            {
+                case "+" : return num1 + num2;
+                    break;
+                case "-" : return num1 - num2;
+                    break;
+                case "/" :
+                    if (num2 == 0) throw new Exception("Zero devision");
+                    return num1 / num2;
+                    break;
+                case "*" : return num1 * num2;
+                    break;
+                default: throw new ArgumentException("Invalid operation");
+            }
+        }
     }
 }
