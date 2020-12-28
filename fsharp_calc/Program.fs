@@ -1,8 +1,11 @@
 ﻿open System
 open System.Diagnostics
-   module fsharp_Calc = 
+open System.Threading.Tasks
+open System.Net.Http
+   module fsharp_Calc =
        type MaybeBuilder() =
-              member this.Bind(m,f) = match m with
+              member this.Bind(m,f) =
+              match m with
               | None -> None
               | Some x -> f x 
               member this.Return(x) = Some x
@@ -23,8 +26,8 @@ open System.Diagnostics
                let! result = Calculate x o y
                return result
            }
+               
 [<EntryPoint>]
 let main argv =
-   let sum_5_5 = fsharp_Calc.Calculator 5 "+" 5
-   printf ("%A") sum_5_5
+   let sum_5_5 = fsharp_Calc.Calculator 53 "+" 53
    0
